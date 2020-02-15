@@ -3,4 +3,4 @@
 
 这是我的github图床
 
-https://ghs.devyi.com
+http://ghs.devyi.com
